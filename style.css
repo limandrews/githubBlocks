@@ -1,0 +1,30 @@
+h1{
+    color: brown;
+}
+
+img {
+    height: 200px;
+    margin: 20px;
+}
+
+.containerone {
+    background-color: rgb(18, 70, 116);
+    display: flex;
+    justify-content: space-between;
+}
+
+.containertwo {
+    background-color: crimson;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.containerthree {
+    background-color: bisque;
+    display: flex;
+    justify-content: space-between;
+}
+
+div{
+    margin-bottom: 17px;
+}
